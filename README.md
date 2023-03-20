@@ -8,6 +8,9 @@
 
 ## Introduction
 
+The instructions for task#1 are contained in the [Module2 Project on Github](https://github.com/learn-co-curriculum/java-module2-project),
+and are repeated here as part of this project worktime lesson.
+
 Now that we have learned about Java constructors and methods, it is time to
 apply this new knowledge to our project!
 
@@ -20,7 +23,7 @@ in this module.
 
 ![uml module2 project](https://curriculum-content.s3.amazonaws.com/6676/java-multipleclasses/uml_module2_project.png)
 
-## `Concert` Class
+## Task #1 - `Concert` Class
 
 The `Concert` class encapsulates data about:
 - the artist performing at a music concert
